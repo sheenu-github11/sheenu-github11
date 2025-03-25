@@ -1,4 +1,4 @@
-![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Shreyash!&height=230&section=header)
+![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Sheenu!&height=230&section=header)
 
 ## Access Granted! Howdy? 🚀
 
