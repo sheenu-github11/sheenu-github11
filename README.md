@@ -5,11 +5,13 @@
 <!-- Centered container -->
 <div align="center">
 
-  <!-- Profile Image -->
-  <img src="https://github.com/user-attachments/assets/6a839a26-4225-476f-be9b-ca6d56161af1" 
-       alt="Hacker Girl Image" width="200">
+  <!-- Profile GIF -->
+  <img src="https://media.giphy.com/media/UO4jZcVOng4TO3aJ4A/giphy.gif?cid=790b7611oqmdlr725wg44d9ean98k819t86pn7a8g31x47r4&ep=v1_gifs_search&rid=giphy.gif&ct=g" 
+       alt="Hacker GIF" width="200">
 
   <br><br>
+</div>
+
 
   <!-- Contact Info -->
   <h3>Connect with me:</h3>
