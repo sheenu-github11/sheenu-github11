@@ -1,6 +1,6 @@
-![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Sheenu!&height=230&section=header)
+![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Access%20Granted!%20Howdy?&height=230&section=header)
 
-## Access Granted! Howdy? 🚀
+## Hi, I'm Sheenu 👋🏼
 
 
 <!--
