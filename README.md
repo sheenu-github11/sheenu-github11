@@ -1,4 +1,5 @@
-![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Access%20Granted!%20Howdy%3F&height=300&section=header&fontSize=50&width=100vw)
+![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Access%20Granted!%20Howdy%3F&height=150&section=header&fontSize=50)
+
 
 
 # Hi, I'm Sheenu 👋🏼  
