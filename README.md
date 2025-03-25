@@ -1,4 +1,4 @@
-![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Access%20Granted!%20Howdy?&height=120&section=header&fontSize=40)
+![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Access%20Granted!%20Howdy?&height=180&section=header&fontSize=45)
 
 
 
