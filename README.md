@@ -4,9 +4,9 @@
 
 # Hi, I'm Sheenu 👋🏼  
 <div style="display: flex; align-items: left; justify-content: space-between;">
-  <!-- GIF with Reduced Size -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV6dzBpYzdoYnByYWl3dXVwZ3IxMjloNmwyeTlvYWVuenQ3YW12ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11xBk5MoWjrYoE/giphy.gif" 
-       alt="Hacker Girl GIF" width="200">
+  <!-- Static Image Instead of GIF -->
+  <img src="https://github.com/user-attachments/assets/6a839a26-4225-476f-be9b-ca6d56161af1" 
+       alt="Hacker Girl Image" width="200">
 
   <!-- Contact Info on the Right -->
   <div style="text-align: right;">
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
