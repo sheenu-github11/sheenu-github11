@@ -1,5 +1,7 @@
 ## Access Granted! Howdy? 🚀
-![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:1E90FF&text=👨‍💻%20Hello,%20I'm%20Sheenu!&height=230&section=header)
+
+
+![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Access%20Granted!%20Howdy?&height=230&section=header)
 
 
 
