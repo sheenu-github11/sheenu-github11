@@ -1,5 +1,6 @@
 ## Access Granted! Howdy? 🚀
-![Wave Banner](https://sheenu-github11/wave.svg)
+![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋🏼%20Hi,%20I'm%20Sheenu!&height=230&section=header)
+
 
 
 <!--
