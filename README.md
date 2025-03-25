@@ -10,16 +10,14 @@
        alt="Hacker GIF" width="200">
 
   <br><br>
-</div>
 
-
-  <!-- Contact Info -->
+  <!-- Contact Info - Centered Below GIF -->
   <h3>Connect with me:</h3>
-
+  
   <a href="https://www.linkedin.com/in/sheenu-jain-1103-msrit">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
+  
   <a href="mailto:sheenu.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
