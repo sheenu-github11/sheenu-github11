@@ -35,9 +35,7 @@ I'm a student pursuing a **Bachelor of Technology in Information Science and Eng
 🔹 **Data & Security** – Skilled in **SQL/NoSQL databases, data analytics, and cybersecurity**, with experience in tools like **MongoDB, MySQL, and Power BI**.  
 🔹 **Machine Learning & AI** – Passionate about **LLM fine-tuning, NLP, and RAG-based retrieval systems** to enhance intelligent automation.  
 
-I'm an **Open Source enthusiast** who believes in collaboration and transparency to drive innovation. I thrive on solving complex engineering challenges and enjoy working on projects that impact real-world applications.  
-
-Outside of tech, I have an undefeated record against Ikea furniture—no manual needed. If debugging were this easy, life would be perfect.**hehe** ;)  
+Outside of tech, I have a record against Ikea furniture—no manual needed. If debugging were this easy, life would be perfect. **hehe** ;)  
 
  
 
