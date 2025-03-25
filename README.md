@@ -29,7 +29,7 @@ I'm a student pursuing a **Bachelor of Technology in Information Science and Eng
 
 🔹 **Backend & API Development** – I enjoy building **RESTful APIs, GraphQL services, and microservices** that enhance system performance.  
 🔹 **Cloud & DevOps Enthusiast** – Currently exploring **AWS** and **CI/CD pipelines** to optimize deployment workflows.  
-🔹 **Data & Security** – Skilled in **SQL/NoSQL databases, data analytics, and cybersecurity**, with experience in tools like **MongoDB, MySQL, and Power BI**.  
+🔹 **Data & Security** – **SQL/NoSQL databases, data analytics, and cybersecurity**, with experience in tools like **MongoDB, MySQL, and Power BI**.  
 🔹 **Machine Learning & AI** – Passionate about **LLM fine-tuning, NLP, and RAG-based retrieval systems** to enhance intelligent automation.  
 
 Outside of tech, I have a record against Ikea furniture—no manual needed. If debugging were this easy, life would be perfect. **hehe** 😉  
