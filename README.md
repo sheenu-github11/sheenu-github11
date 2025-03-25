@@ -1,8 +1,6 @@
 ![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Access%20Granted!%20Howdy%3F&height=230&section=header&fontSize=50)
 
 
-## Hi, I'm Sheenu 👋🏼
-
 # Hi, I'm Sheenu 👋🏼  
 
 ![Hacker Girl GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV6dzBpYzdoYnByYWl3dXVwZ3IxMjloNmwyeTlvYWVuenQ3YW12ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11xBk5MoWjrYoE/giphy.gif)
