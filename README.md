@@ -1,8 +1,6 @@
+![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Shreyash!&height=230&section=header)
+
 ## Access Granted! Howdy? 🚀
-
-
-![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Access%20Granted!%20Howdy?&height=230&section=header)
-
 
 
 <!--
