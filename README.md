@@ -1,3 +1,4 @@
+![hacker_girl](https://github.com/user-attachments/assets/6a839a26-4225-476f-be9b-ca6d56161af1)
 ![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🚀%20Access%20Granted!%20Howdy%3F&height=230&section=header&fontSize=50)
 
 
