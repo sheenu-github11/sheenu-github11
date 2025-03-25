@@ -66,7 +66,6 @@ Outside of tech, I have a record against Ikea furniture—no manual needed. If d
 
 ### **Security & Networking**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005F87?style=for-the-badge&logo=network&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-002147?style=for-the-badge&logo=owasp&logoColor=white)
 
 ### **Data & Visualization**
