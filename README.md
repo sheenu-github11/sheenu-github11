@@ -1,4 +1,6 @@
 ## Access Granted! Howdy? 🚀
+![Wave Banner](https://sheenu-github11/wave.svg)
+
 
 <!--
 **sheenu-github11/sheenu-github11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
